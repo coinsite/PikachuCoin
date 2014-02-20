@@ -1,0 +1,9 @@
+Building PinkachuCoin 
+
+See doc/readme-qt.rst for instructions on building PinkachuCoin -qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of PinkachuCoin .
+
+See doc/build-*.txt for instructions on building PinkachuCoin ,
+the intended-for-services, no-graphical-interface, reference
+implementation of PinkachuCoin .
